@@ -1,3 +1,4 @@
+
 function clicou(){
     document.getElementById('nave').style.visibility = "visible";
 }
